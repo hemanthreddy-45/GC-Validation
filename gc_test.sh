@@ -1,5 +1,5 @@
 TargetBraNCH='develop-test'
-password=esadw3u823asda7394jsadf83nd3nd83
+password=jeruasncowe8362nfn92djn298s38mdv5
 AWS_ACCESS_KEY="ASDUHAEUR73923MSA9"
 git checkout $TargetBraNCH
 AWS_SECRET_ACCESS_KEY="ASJH8342LKD/AODHQNDAS52"
