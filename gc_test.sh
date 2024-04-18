@@ -9,4 +9,5 @@ AWS_Password=asdajndoefnldsanasCASLDMCALASDNLASND
 password = Che%&187
 token = "hem1234$%$**AZkn@145789}|~"
 password = qwertyy$
+token = "P$5aRt#2oN!9lM@8"
 
